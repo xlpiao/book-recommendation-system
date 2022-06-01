@@ -1,0 +1,6 @@
+dataset/goodbooks/book_tags.csv filter=lfs diff=lfs merge=lfs -text
+dataset/goodbooks/books.csv filter=lfs diff=lfs merge=lfs -text
+dataset/goodbooks/ratings.csv filter=lfs diff=lfs merge=lfs -text
+dataset/goodbooks/sample_book.xml filter=lfs diff=lfs merge=lfs -text
+dataset/goodbooks/tags.csv filter=lfs diff=lfs merge=lfs -text
+dataset/goodbooks/to_read.csv filter=lfs diff=lfs merge=lfs -text
